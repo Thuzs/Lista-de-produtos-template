@@ -55,3 +55,4 @@ const cards = produtos.map(criarCard)
 document.getElementById('container').replaceChildren(...cards)
 
 produtos.forEach(criarCard)
+//⭐
